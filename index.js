@@ -1,5 +1,5 @@
 /* ModuleFinder, a Vizality plugin to ease plugin development
- * Copyright (C) 2021 rem
+ * Copyright (C) 2021 Vendicated
  *
  * ModuleFinder is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published
