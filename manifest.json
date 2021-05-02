@@ -1,7 +1,10 @@
 {
-  "author": "Vendicated",
   "name": "ModuleFinder",
+  "version": "1.0.0",
   "description": "Easily find modules, components or constants by keyboard",
-  "version": "0.1.0",
-  "license": "GPL-3.0"
+  "author": {
+    "name": "rem | original by Ven#8810",
+    "id": "257109471589957632"
+},
+  "license": "GPLv3"
 }
